@@ -147,7 +147,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(../img/seattle-skyline.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -259,6 +259,7 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
+
 }
 
 .download-section {
@@ -366,6 +367,14 @@ img::selection {
 
 img::-moz-selection {
     background: 0 0;
+}
+
+.img-about {
+    height: 260px;
+    width: 180px;
+    float: right;
+    margin-left: 30px;
+
 }
 
 body {
