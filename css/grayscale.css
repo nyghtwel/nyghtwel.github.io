@@ -261,7 +261,9 @@ a:focus {
     padding-top: 100px;
 
 }
-
+/*
+    Took out does not apply.
+*/
 .download-section {
     width: 100%;
     padding: 50px 0;
@@ -372,7 +374,7 @@ img::-moz-selection {
 .img-about {
     height: 260px;
     width: 180px;
-    float: right;
+    float: left;
     margin-left: 30px;
 
 }
